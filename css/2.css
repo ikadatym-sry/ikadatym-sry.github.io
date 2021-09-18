@@ -6,8 +6,8 @@ body {
   overflow: hidden;
   text-align: left;
   padding: 0.3em;
-  background-color: green;
-  color: aliceblue;
+  background-color: blue;
+  color: green;
 }
 
 .dark-mode {
